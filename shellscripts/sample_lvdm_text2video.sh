@@ -1,5 +1,6 @@
 
-PROMPT="astronaut riding a horse" # OR: PROMPT="input/prompts.txt" for sampling multiple prompts
+#PROMPT="astronaut riding a horse" # OR: PROMPT="input/prompts.txt" for sampling multiple prompts
+PROMPT="input/prompts.txt"
 OUTDIR="results/t2v"
 
 CKPT_PATH="models/t2v/model.ckpt"
